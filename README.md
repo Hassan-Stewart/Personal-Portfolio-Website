@@ -5,7 +5,7 @@ Welcome to my Personal Portfolio Website, where you can learn more about my proj
 
 ## About
 
-This portfolio showcases my journey as a software developer. Here, you can find information about my background, view my projects, read my blog posts, and get in touch with me.
+   This portfolio showcases my projects and skills as an aspiring Software Developer. Here, you can find information about my background, view my projects, read my blog posts, and get in touch with me.
 
 ## Features
 
